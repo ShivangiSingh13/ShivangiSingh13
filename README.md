@@ -189,7 +189,6 @@ Fun fact:      "Learning never exhausts the mind."
 
 </table>
 
-> 💡 Want live demos or repo links for these? Send me the URLs and I can turn each project name into a clickable badge/button linking straight to the code or live app.
 
 ---
 
