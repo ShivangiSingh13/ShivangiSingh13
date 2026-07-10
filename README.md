@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Shivangi%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science%20%7C%20MERN%20Stack&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+%2F+ML+Engineer;Data+Scientist;Full+Stack+Developer;B.Tech+CSE+Student;Turning+Ideas+Into+Intelligent+Apps;&font=Fira%20Code&center=true&width=600&height=45&color=4facfe&vCenter=true&size=24"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CSE+Student;Turning+Ideas+Into+Intelligent+Apps;&font=Fira%20Code&center=true&width=600&height=45&color=4facfe&vCenter=true&size=24"/>
 
 <br/>
 
