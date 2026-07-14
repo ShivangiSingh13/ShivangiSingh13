@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Shivangi%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science%20%7C%20MERN%20Stack&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CSE+Student;Turning+Ideas+Into+Intelligent+Apps;&font=Fira%20Code&center=true&width=600&height=45&color=4facfe&vCenter=true&size=24"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=AI+%2F+ML+Engineer;Data+Scientist;Full+Stack+Developer;B.Tech+CSE+Student;Turning+Ideas+Into+Intelligent+Apps;&font=Fira%20Code&center=true&width=600&height=45&color=4facfe&vCenter=true&size=24"/>
 
 <br/>
 
@@ -18,13 +18,13 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science undergraduate at **Lovely Professional University**, passionate about **Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development**.
+I'm a Computer Science undergraduate at **Lovely Professional University**, passionate about **Artificial Intelligence, Machine Learning, and Data Science**.
 
-I enjoy turning real-world problems into intelligent, scalable applications — whether that means training a deep learning model, building an insightful analytics dashboard, or shipping a responsive full stack web app.
+I enjoy turning real-world problems into intelligent, scalable applications — whether that means training a deep learning model, building an insightful analytics dashboard, or shipping a responsive web app.
 
 ```yaml
 Name:          Shivangi Singh
-Role:          AI/ML Engineer • Data Scientist • Full Stack Developer
+Role:          AI/ML Engineer • Data Scientist
 Education:     B.Tech CSE, Lovely Professional University
 Interests:     Deep Learning, Computer Vision, Explainable AI, MERN Stack
 Currently:     Building projects at the intersection of AI & real-world impact
@@ -121,7 +121,6 @@ Fun fact:      "Learning never exhausts the mind."
 - NLP Fundamentals
 - Data Cleaning & Preprocessing
 - Data Visualization
-- Full Stack (MERN) Development
 - Dashboarding (Power BI)
 
 </td>
@@ -147,7 +146,7 @@ Fun fact:      "Learning never exhausts the mind."
 
 <tr>
 <td>💻 <b>CodeCampus – Online Coding Platform</b></td>
-<td>Full-stack coding platform featuring authentication, coding challenges, submissions, leaderboards, and contest management</td>
+<td>Coding platform featuring authentication, coding challenges, submissions, leaderboards, and contest management</td>
 <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></td>
 </tr>
 
@@ -189,6 +188,7 @@ Fun fact:      "Learning never exhausts the mind."
 
 </table>
 
+> 💡 Want live demos or repo links for these? Send me the URLs and I can turn each project name into a clickable badge/button linking straight to the code or live app.
 
 ---
 
@@ -252,7 +252,7 @@ Add a GitHub Action to your repo (`.github/workflows/snake.yml`) using the [`Pla
 
 <div align="center">
 
-I'm always open to discussing **AI/ML projects, data science collaborations, or full stack development opportunities**.
+I'm always open to discussing **AI/ML projects and data science collaborations**.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivangi131/)
 [![Email](https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2005shivangisingh@gmail.com)
