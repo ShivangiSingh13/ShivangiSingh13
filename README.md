@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Shivangi%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science%20%7C%20MERN%20Stack&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Shivangi%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science%20%7C%20&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+%2F+ML+Engineer;Data+Scientist;Full+Stack+Developer;B.Tech+CSE+Student;Turning+Ideas+Into+Intelligent+Apps;&font=Fira%20Code&center=true&width=600&height=45&color=4facfe&vCenter=true&size=24"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=AI+%2F+ML+Engineer;Data+Scientist;B.Tech+CSE+Student;Turning+Ideas+Into+Intelligent+Apps;&font=Fira%20Code&center=true&width=600&height=45&color=4facfe&vCenter=true&size=24"/>
 
 <br/>
 
@@ -39,7 +39,6 @@ Fun fact:      "Learning never exhausts the mind."
 - 🎓 B.Tech CSE Student
 - 🤖 AI & Machine Learning Enthusiast
 - 📊 Data Science & Analytics
-- 🌐 MERN Stack Developer
 - 📈 Power BI Dashboard Developer
 - 🔍 Explainable AI (Grad-CAM, SHAP)
 - 🚀 Open to internships & collaborations
@@ -53,11 +52,6 @@ Fun fact:      "Learning never exhausts the mind."
 ### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css,sql"/>
-</p>
-
-### Frameworks & Frontend/Backend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind"/>
 </p>
 
 ### AI / ML Libraries
@@ -75,7 +69,7 @@ Fun fact:      "Learning never exhausts the mind."
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
@@ -85,7 +79,7 @@ Fun fact:      "Learning never exhausts the mind."
 
 ### Cloud, Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render"/>
 </p>
 
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-052FAD?style=flat-square&logo=ibm&logoColor=white)
