@@ -83,14 +83,6 @@ Fun fact:      "Learning never exhausts the mind."
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop%20HDFS-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 
-### Full Stack Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-
 ### Cloud, Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
@@ -132,20 +124,6 @@ Fun fact:      "Learning never exhausts the mind."
 - Predictive Analytics (Classification & Regression)
 - Explainable AI (Grad-CAM, SHAP)
 - Dashboarding & Data Storytelling (Power BI)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Full Stack Development**
-- MERN Stack (MongoDB, Express, React, Node.js)
-- REST API Design & Authentication
-- Real-Time Applications (Socket.io)
-- Responsive UI Development
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
