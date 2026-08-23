@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFA500&height=220&section=header&text=Shivangi%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:22d3ee&height=220&section=header&text=Shivangi%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+%2F+ML+Engineer;Data+Scientist;B.Tech+CSE+Student;Turning+Data+Into+Decisions;&font=Fira%20Code&center=true&width=600&height=45&color=4facfe&vCenter=true&size=24"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=AI+%2F+ML+Engineer;Data+Scientist;B.Tech+CSE+Student;Turning+Data+Into+Decisions;&font=Fira%20Code&center=true&width=600&height=45&color=0891B2&vCenter=true&size=24"/>
 
 <br/>
 
@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2005shivangisingh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivangiSingh13)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShivangiSingh13&color=4facfe&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ShivangiSingh13&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -69,7 +69,7 @@ Fun fact:      "Learning never exhausts the mind."
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-0891B2?style=flat-square)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
 ![LibROSA](https://img.shields.io/badge/LibROSA-D2691E?style=flat-square)
 
@@ -143,7 +143,7 @@ Fun fact:      "Learning never exhausts the mind."
 <tr>
 <td>🫁 <b>AI-Based Tuberculosis Detection System</b></td>
 <td>Deep learning system for tuberculosis detection from chest X-rays with explainable AI using Grad-CAM visualization</td>
-<td><img src="https://img.shields.io/badge/ResNet50-red?style=flat-square"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Grad--CAM-purple?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/ResNet50-0E7490?style=flat-square"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Grad--CAM-22D3EE?style=flat-square"/></td>
 </tr>
 
 <tr>
@@ -161,13 +161,13 @@ Fun fact:      "Learning never exhausts the mind."
 <tr>
 <td>📊 <b>School Education Analytics Dashboard</b></td>
 <td>Interactive Power BI dashboard analyzing UDISE+ education data with KPIs, DAX measures, and Power Query transformations</td>
-<td><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/DAX-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Power%20Query-purple?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/DAX-0891B2?style=flat-square"/> <img src="https://img.shields.io/badge/Power%20Query-22D3EE?style=flat-square"/></td>
 </tr>
 
 <tr>
 <td>🤖 <b>Sahara AI – Welfare Scheme Assistant</b></td>
 <td>AI-powered chatbot that recommends government welfare schemes based on user profiles using NLP and LLM integration</td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/LLM-8A2BE2?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/LLM-0891B2?style=flat-square"/></td>
 </tr>
 
 <tr>
@@ -179,7 +179,7 @@ Fun fact:      "Learning never exhausts the mind."
 <tr>
 <td>💼 <b>Employee Salary Prediction System</b></td>
 <td>Machine learning application predicting salaries with SHAP explainability and interactive visualization</td>
-<td><img src="https://img.shields.io/badge/Random%20Forest-green?style=flat-square"/> <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/Random%20Forest-0E7490?style=flat-square"/> <img src="https://img.shields.io/badge/SHAP-22D3EE?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></td>
 </tr>
 
 <tr>
