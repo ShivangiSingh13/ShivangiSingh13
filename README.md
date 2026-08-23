@@ -18,11 +18,11 @@
 
 ## 👩‍💻 About Me
 
-Computer Science undergraduate | Data Analytics & AI enthusiast | Projects in Machine Learning, Deep Learning, and Full Stack Development
+Computer Science undergraduate | Data Analytics & AI enthusiast | Projects in Machine Learning, Deep Learning, and Data Science
 
-I'm a Computer Science undergraduate at **Lovely Professional University**, specializing in **Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development**.
+I'm a Computer Science undergraduate at **Lovely Professional University**, specializing in **Artificial Intelligence, Machine Learning, and Data Science**.
 
-I love turning ideas into intelligent, end-to-end applications — from training deep learning models for medical imaging, to building explainable ML pipelines, to shipping full-stack platforms with the MERN stack.
+I love turning raw data into intelligent systems — from training deep learning models for medical imaging, to building explainable ML pipelines, to designing analytics dashboards that drive real decisions.
 
 ```yaml
 Name:          Shivangi Singh
