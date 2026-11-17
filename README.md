@@ -9,6 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivangi131/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2005shivangisingh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivangiSingh13)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shivangi1315/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/2005shivangisin1)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShivangiSingh13&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -20,7 +22,7 @@
 
 Computer Science undergraduate | Data Analytics & AI enthusiast | Projects in Machine Learning, Deep Learning, and Data Science
 
-I'm a Computer Science undergraduate at **Lovely Professional University**, specializing in **Artificial Intelligence, Machine Learning, and Data Science**.
+I'm a Computer Science undergraduate at **Lovely Professional University**, specializing in **Artificial Intelligence and Machine Learning**, with a **Minor in Data Science**.
 
 I love turning raw data into intelligent systems — from training deep learning models for medical imaging, to building explainable ML pipelines, to designing analytics dashboards that drive real decisions.
 
@@ -28,7 +30,7 @@ I love turning raw data into intelligent systems — from training deep learning
 Name:          Shivangi Singh
 Pronouns:      she/her
 Role:          AI/ML Engineer • Data Scientist
-Education:     B.Tech CSE, Lovely Professional University
+Education:     B.Tech CSE (Minor in Data Science), Lovely Professional University
 Interests:     Deep Learning, Computer Vision, NLP, Explainable AI
 Currently:     Building end-to-end ML systems with real-world impact
 Looking for:   Internships & Collaborations in AI/ML and Data Science
@@ -39,7 +41,7 @@ Fun fact:      "Learning never exhausts the mind."
 <summary>🎯 <b>Quick Highlights</b> (click to expand)</summary>
 <br>
 
-- 🎓 B.Tech CSE Student
+- 🎓 B.Tech CSE Student (Minor in Data Science)
 - 🤖 AI & Machine Learning Enthusiast
 - 📊 Data Science & Analytics
 - 📈 Power BI Dashboard Developer
@@ -198,30 +200,6 @@ Fun fact:      "Learning never exhausts the mind."
 <td>📈 <b>Academic Dashboard using Excel</b></td>
 <td>Excel-based academic dashboard for analyzing and visualizing performance data</td>
 <td><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/></td>
-</tr>
-
-<tr>
-<td>😟 <b>Stress Detector App</b></td>
-<td>Python application that detects stress levels</td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
-</tr>
-
-<tr>
-<td>⚙️ <b>CPU Scheduler</b></td>
-<td>Python implementation of CPU scheduling algorithms</td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
-</tr>
-
-<tr>
-<td>📚 <b>Basics of ML</b></td>
-<td>Jupyter notebooks covering core machine learning fundamentals</td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></td>
-</tr>
-
-<tr>
-<td>🎮 <b>Mini Games using Python</b></td>
-<td>Collection of mini games built with Python</td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
 </tr>
 
 </table>
