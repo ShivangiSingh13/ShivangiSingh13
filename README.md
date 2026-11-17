@@ -188,9 +188,43 @@ Fun fact:      "Learning never exhausts the mind."
 <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></td>
 </tr>
 
-</table>
+<tr>
+<td>🧪 <b>Comparing Loss Functions using Robust Supervised Learning</b></td>
+<td>Comparative study of different loss functions in robust supervised learning, evaluated through Jupyter-based experiments</td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></td>
+</tr>
 
-> 💡 Want live demos or repo links for these? Send me the URLs and I can turn each project name into a clickable badge/button linking straight to the code or live app.
+<tr>
+<td>📈 <b>Academic Dashboard using Excel</b></td>
+<td>Excel-based academic dashboard for analyzing and visualizing performance data</td>
+<td><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/></td>
+</tr>
+
+<tr>
+<td>😟 <b>Stress Detector App</b></td>
+<td>Python application that detects stress levels</td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+</tr>
+
+<tr>
+<td>⚙️ <b>CPU Scheduler</b></td>
+<td>Python implementation of CPU scheduling algorithms</td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+</tr>
+
+<tr>
+<td>📚 <b>Basics of ML</b></td>
+<td>Jupyter notebooks covering core machine learning fundamentals</td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></td>
+</tr>
+
+<tr>
+<td>🎮 <b>Mini Games using Python</b></td>
+<td>Collection of mini games built with Python</td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+</tr>
+
+</table>
 
 ---
 
@@ -263,6 +297,6 @@ I'm always open to discussing **AI/ML projects and data science collaborations**
 
 > *"Learning never exhausts the mind. Every project is another step toward innovation."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:22d3ee&height=120&section=footer"/>
 
 </div>
