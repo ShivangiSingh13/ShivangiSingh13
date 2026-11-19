@@ -18,6 +18,15 @@
 
 ---
 
+<h1 align="center">Hi 👋, I'm Shivangi</h1>
+<h3 align="center">A Passionate AI/ML Engineer & Data Scientist</h3>
+
+<p align="center">
+<img src="assets/ai-ml-banner.svg" alt="Data Science and AI/ML" width="100%"/>
+</p>
+
+---
+
 ## 👩‍💻 About Me
 
 Computer Science undergraduate | Data Analytics & AI enthusiast | Projects in Machine Learning, Deep Learning, and Data Science
@@ -26,16 +35,27 @@ I'm a Computer Science undergraduate at **Lovely Professional University**, spec
 
 I love turning raw data into intelligent systems — from training deep learning models for medical imaging, to building explainable ML pipelines, to designing analytics dashboards that drive real decisions.
 
-```yaml
-Name:          Shivangi Singh
-Pronouns:      she/her
-Role:          AI/ML Engineer • Data Scientist
-Education:     B.Tech CSE (Minor in Data Science), Lovely Professional University
-Interests:     Deep Learning, Computer Vision, NLP, Explainable AI
-Currently:     Building end-to-end ML systems with real-world impact
-Looking for:   Internships & Collaborations in AI/ML and Data Science
-Fun fact:      "Learning never exhausts the mind."
-```
+<table>
+<tr>
+<td width="62%" valign="middle">
+
+- 👩‍💻 **Role:** AI/ML Engineer • Data Scientist (she/her)
+- 🎓 **Education:** B.Tech CSE (Minor in Data Science), Lovely Professional University
+- 🔭 I'm currently building **end-to-end ML systems with real-world impact**
+- 🌱 I'm currently exploring **Deep Learning, Computer Vision, NLP & Explainable AI**
+- 👯 I'm looking to collaborate on **AI/ML and Data Science projects & internships**
+- 💬 Ask me about **Machine Learning, Data Science & Analytics**
+- 📫 How to reach me: [2005shivangisingh@gmail.com](mailto:2005shivangisingh@gmail.com)
+- ⚡ Fun fact: *"Learning never exhausts the mind."*
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="assets/role-illustration.svg" alt="AI/ML Engineer • Data Scientist" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary>🎯 <b>Quick Highlights</b> (click to expand)</summary>
@@ -99,6 +119,17 @@ Fun fact:      "Learning never exhausts the mind."
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ---
 
