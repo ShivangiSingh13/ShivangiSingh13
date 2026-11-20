@@ -18,18 +18,11 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Shivangi</h1>
-<h3 align="center">A Passionate AI/ML Engineer & Data Scientist</h3>
-
 <p align="center">
 <img src="assets/ai-ml-banner.svg" alt="Data Science and AI/ML" width="100%"/>
 </p>
 
----
-
 ## 👩‍💻 About Me
-
-Computer Science undergraduate | Data Analytics & AI enthusiast | Projects in Machine Learning, Deep Learning, and Data Science
 
 I'm a Computer Science undergraduate at **Lovely Professional University**, specializing in **Artificial Intelligence and Machine Learning**, with a **Minor in Data Science**.
 
@@ -39,14 +32,10 @@ I love turning raw data into intelligent systems — from training deep learning
 <tr>
 <td width="62%" valign="middle">
 
-- 👩‍💻 **Role:** AI/ML Engineer • Data Scientist (she/her)
-- 🎓 **Education:** B.Tech CSE (Minor in Data Science), Lovely Professional University
 - 🔭 I'm currently building **end-to-end ML systems with real-world impact**
 - 🌱 I'm currently exploring **Deep Learning, Computer Vision, NLP & Explainable AI**
 - 👯 I'm looking to collaborate on **AI/ML and Data Science projects & internships**
 - 💬 Ask me about **Machine Learning, Data Science & Analytics**
-- 📫 How to reach me: [2005shivangisingh@gmail.com](mailto:2005shivangisingh@gmail.com)
-- ⚡ Fun fact: *"Learning never exhausts the mind."*
 
 </td>
 <td width="38%" align="center" valign="middle">
@@ -56,20 +45,6 @@ I love turning raw data into intelligent systems — from training deep learning
 </td>
 </tr>
 </table>
-
-<details>
-<summary>🎯 <b>Quick Highlights</b> (click to expand)</summary>
-<br>
-
-- 🎓 B.Tech CSE Student (Minor in Data Science)
-- 🤖 AI & Machine Learning Enthusiast
-- 📊 Data Science & Analytics
-- 📈 Power BI Dashboard Developer
-- 🔍 Explainable AI (Grad-CAM, SHAP)
-- 🩺 Deep Learning for Medical Imaging
-- 🚀 Open to internships & collaborations
-
-</details>
 
 ---
 
@@ -277,27 +252,9 @@ I love turning raw data into intelligent systems — from training deep learning
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ShivangiSingh13/ShivangiSingh13/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-<details>
-<summary>⚙️ How to enable the snake animation (one-time setup)</summary>
-<br>
-
-Add a GitHub Action to your repo (`.github/workflows/snake.yml`) using the [`Platane/snk`](https://github.com/Platane/snk) action, which generates the animated contribution snake above automatically on a schedule.
-
-</details>
-
----
-
 ## 💬 Let's Connect
 
 <div align="center">
-
-I'm always open to discussing **AI/ML projects and data science collaborations**.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivangi131/)
 [![Email](https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2005shivangisingh@gmail.com)
