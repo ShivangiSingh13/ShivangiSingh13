@@ -22,7 +22,7 @@
 <h3 align="center">A Passionate AI/ML Engineer & Data Scientist</h3>
 
 <p align="center">
-<img src="assets/ai-ml-banner.svg" alt="Data Science and AI/ML" width="100%"/>
+<img src="ai-ml-banner.svg" alt="Data Science and AI/ML" width="100%"/>
 </p>
 
 ---
@@ -51,13 +51,25 @@ I love turning raw data into intelligent systems — from training deep learning
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="assets/role-illustration.svg" alt="AI/ML Engineer • Data Scientist" width="100%"/>
+<img src="role-illustration.svg" alt="AI/ML Engineer • Data Scientist" width="100%"/>
 
 </td>
 </tr>
 </table>
 
+<details>
+<summary>🎯 <b>Quick Highlights</b> (click to expand)</summary>
+<br>
 
+- 🎓 B.Tech CSE Student (Minor in Data Science)
+- 🤖 AI & Machine Learning Enthusiast
+- 📊 Data Science & Analytics
+- 📈 Power BI Dashboard Developer
+- 🔍 Explainable AI (Grad-CAM, SHAP)
+- 🩺 Deep Learning for Medical Imaging
+- 🚀 Open to internships & collaborations
+
+</details>
 
 ---
 
