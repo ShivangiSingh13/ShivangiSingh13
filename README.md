@@ -57,19 +57,7 @@ I love turning raw data into intelligent systems — from training deep learning
 </tr>
 </table>
 
-<details>
-<summary>🎯 <b>Quick Highlights</b> (click to expand)</summary>
-<br>
 
-- 🎓 B.Tech CSE Student (Minor in Data Science)
-- 🤖 AI & Machine Learning Enthusiast
-- 📊 Data Science & Analytics
-- 📈 Power BI Dashboard Developer
-- 🔍 Explainable AI (Grad-CAM, SHAP)
-- 🩺 Deep Learning for Medical Imaging
-- 🚀 Open to internships & collaborations
-
-</details>
 
 ---
 
