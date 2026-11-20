@@ -35,9 +35,7 @@ I'm a Computer Science undergraduate at **Lovely Professional University**, spec
 
 I love turning raw data into intelligent systems — from training deep learning models for medical imaging, to building explainable ML pipelines, to designing analytics dashboards that drive real decisions.
 
-<table>
-<tr>
-<td width="62%" valign="middle">
+<img align="right" src="role-illustration.svg" alt="AI/ML Engineer • Data Scientist" width="320"/>
 
 - 👩‍💻 **Role:** AI/ML Engineer • Data Scientist (she/her)
 - 🎓 **Education:** B.Tech CSE (Minor in Data Science), Lovely Professional University
@@ -48,14 +46,7 @@ I love turning raw data into intelligent systems — from training deep learning
 - 📫 How to reach me: [2005shivangisingh@gmail.com](mailto:2005shivangisingh@gmail.com)
 - ⚡ Fun fact: *"Learning never exhausts the mind."*
 
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="role-illustration.svg" alt="AI/ML Engineer • Data Scientist" width="100%"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <details>
 <summary>🎯 <b>Quick Highlights</b> (click to expand)</summary>
