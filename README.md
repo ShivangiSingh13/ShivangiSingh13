@@ -18,8 +18,10 @@
 
 ---
 
+<br/>
+
 <h1 align="center">Hi 👋, I'm Shivangi</h1>
-<h3 align="center">A Passionate AI/ML Engineer & Data Scientist</h3>
+<h3 align="center">Aspiring AI/ML & Data Science Enthusiast</h3>
 
 <p align="center">
 <img src="ai-ml-banner.svg" alt="Data Science and AI/ML" width="100%"/>
@@ -27,9 +29,9 @@
 
 ---
 
-## 👩‍💻 About Me
+<br/>
 
-Computer Science undergraduate | Data Analytics & AI enthusiast | Projects in Machine Learning, Deep Learning, and Data Science
+## 👩‍💻 About Me
 
 I'm a Computer Science undergraduate at **Lovely Professional University**, specializing in **Artificial Intelligence and Machine Learning**, with a **Minor in Data Science**.
 
@@ -37,32 +39,16 @@ I love turning raw data into intelligent systems — from training deep learning
 
 <img align="right" src="role-illustration.svg" alt="AI/ML Engineer • Data Scientist" width="320"/>
 
-- 👩‍💻 **Role:** AI/ML Engineer • Data Scientist (she/her)
-- 🎓 **Education:** B.Tech CSE (Minor in Data Science), Lovely Professional University
 - 🔭 I'm currently building **end-to-end ML systems with real-world impact**
 - 🌱 I'm currently exploring **Deep Learning, Computer Vision, NLP & Explainable AI**
 - 👯 I'm looking to collaborate on **AI/ML and Data Science projects & internships**
 - 💬 Ask me about **Machine Learning, Data Science & Analytics**
-- 📫 How to reach me: [2005shivangisingh@gmail.com](mailto:2005shivangisingh@gmail.com)
-- ⚡ Fun fact: *"Learning never exhausts the mind."*
 
 <br clear="right"/>
 
-<details>
-<summary>🎯 <b>Quick Highlights</b> (click to expand)</summary>
-<br>
-
-- 🎓 B.Tech CSE Student (Minor in Data Science)
-- 🤖 AI & Machine Learning Enthusiast
-- 📊 Data Science & Analytics
-- 📈 Power BI Dashboard Developer
-- 🔍 Explainable AI (Grad-CAM, SHAP)
-- 🩺 Deep Learning for Medical Imaging
-- 🚀 Open to internships & collaborations
-
-</details>
-
 ---
+
+<br/>
 
 ## 🧰 Tech Stack
 
@@ -111,18 +97,9 @@ I love turning raw data into intelligent systems — from training deep learning
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-
 ---
+
+<br/>
 
 ## 🧠 Core Competencies
 
@@ -154,6 +131,8 @@ I love turning raw data into intelligent systems — from training deep learning
 </table>
 
 ---
+
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -228,6 +207,8 @@ I love turning raw data into intelligent systems — from training deep learning
 
 ---
 
+<br/>
+
 ## 📜 Certifications
 
 <table>
@@ -243,9 +224,13 @@ I love turning raw data into intelligent systems — from training deep learning
 
 ---
 
+<br/>
+
 ## 📈 GitHub Analytics
 
 <div align="center">
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShivangiSingh13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivangiSingh13&theme=tokyonight&hide_border=true" width="49%"/>
@@ -254,19 +239,9 @@ I love turning raw data into intelligent systems — from training deep learning
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShivangiSingh13&theme=algolia&no-frame=true&row=1&column=7"/>
-</div>
-
-### 📊 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivangiSingh13&theme=tokyo-night&hide_border=true"/>
-</div>
-
 ---
+
+<br/>
 
 ## 🐍 Contribution Snake
 
@@ -284,6 +259,8 @@ Add a GitHub Action to your repo (`.github/workflows/snake.yml`) using the [`Pla
 
 ---
 
+<br/>
+
 ## 💬 Let's Connect
 
 <div align="center">
@@ -293,7 +270,7 @@ I'm always open to discussing **AI/ML projects and data science collaborations**
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivangi131/)
 [![Email](https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2005shivangisingh@gmail.com)
 
-<br>
+<br/>
 
 > *"Learning never exhausts the mind. Every project is another step toward innovation."*
 
