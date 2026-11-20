@@ -18,9 +18,14 @@
 
 ---
 
+<h1 align="center">Hi 👋, I'm Shivangi</h1>
+<h3 align="center">A Passionate AI/ML Engineer & Data Scientist</h3>
+
 <p align="center">
 <img src="assets/ai-ml-banner.svg" alt="Data Science and AI/ML" width="100%"/>
 </p>
+
+---
 
 ## 👩‍💻 About Me
 
@@ -34,16 +39,14 @@ I love turning raw data into intelligent systems — from training deep learning
 <tr>
 <td width="62%" valign="middle">
 
-```yaml
-Name:          Shivangi Singh
-Pronouns:      she/her
-Role:          AI/ML Engineer • Data Scientist
-Education:     B.Tech CSE (Minor in Data Science), Lovely Professional University
-Interests:     Deep Learning, Computer Vision, NLP, Explainable AI
-Currently:     Building end-to-end ML systems with real-world impact
-Looking for:   Internships & Collaborations in AI/ML and Data Science
-Fun fact:      "Learning never exhausts the mind."
-```
+- 👩‍💻 **Role:** AI/ML Engineer • Data Scientist (she/her)
+- 🎓 **Education:** B.Tech CSE (Minor in Data Science), Lovely Professional University
+- 🔭 I'm currently building **end-to-end ML systems with real-world impact**
+- 🌱 I'm currently exploring **Deep Learning, Computer Vision, NLP & Explainable AI**
+- 👯 I'm looking to collaborate on **AI/ML and Data Science projects & internships**
+- 💬 Ask me about **Machine Learning, Data Science & Analytics**
+- 📫 How to reach me: [2005shivangisingh@gmail.com](mailto:2005shivangisingh@gmail.com)
+- ⚡ Fun fact: *"Learning never exhausts the mind."*
 
 </td>
 <td width="38%" align="center" valign="middle">
