@@ -16,14 +16,6 @@
 
 </div>
 
----
-
-<br/>
-
-<h1 align="center">Hi 👋, I'm Shivangi</h1>
-<h3 align="center">Aspiring AI/ML & Data Science Enthusiast</h3>
-
----
 
 <br/>
 
