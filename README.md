@@ -23,10 +23,6 @@
 <h1 align="center">Hi 👋, I'm Shivangi</h1>
 <h3 align="center">Aspiring AI/ML & Data Science Enthusiast</h3>
 
-<p align="center">
-<img src="ai-ml-banner.svg" alt="Data Science and AI/ML" width="100%"/>
-</p>
-
 ---
 
 <br/>
