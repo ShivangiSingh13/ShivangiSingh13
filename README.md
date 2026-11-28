@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:22d3ee&height=220&section=header&text=Shivangi%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+%2F+ML+Engineer;Data+Scientist;B.Tech+CSE+Student;Turning+Data+Into+Decisions;&font=Fira%20Code&center=true&width=600&height=45&color=0891B2&vCenter=true&size=24"/>
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+%26+ML+Undergrad;B.Tech+CSE+Student;Turning+Data+Into+Decisions&font=Fira+Code&center=true&width=600&height=45&color=0891B2&vCenter=true&size=24" alt="Typing animation: Data Science and ML Undergrad" /></p>
 
 <br/>
 
